@@ -1,3 +1,4 @@
 
 
-Conhecendo git e github
+Conhecendo git e github ajuste na configuracao
+
